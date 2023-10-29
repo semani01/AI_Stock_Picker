@@ -53,7 +53,13 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 5. Then, backtested the investing methods with the historical data to identify the best-performing algorithms.
 6. Picked the winner and tweaked it further for performance improvements.
 
+## Few Visualizations
+# Prediction Analysis  
 
+<p align = "center">
+<img src = "/mindmap.png" alt="mindmap" height = 300 width = 500/>
+<h5 align = "center"> Project Mindmap </h5> 
+</p>
 
 ## Disclaimer
 No guarantee or other promise as to any results that may be obtained from using the content. You should never make any investment decision without first consulting with your financial advisor and conducting your research and due diligence.
