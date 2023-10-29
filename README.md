@@ -61,6 +61,52 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 <h5 align = "center"> Linear Regression Prediction </h5> 
 </p>
 
+<p align = "center">
+<img src = "/Visualizations/enr.png" alt="enr" height = 300 width = 300/>
+<h5 align = "center"> Elastic Net Regression Prediction </h5> 
+</p>
+
+<p align = "center">
+<img src = "/Visualizations/knn.png" alt="knn" height = 300 width = 300/>
+<h5 align = "center"> K-Nearest Neighbors Regression Prediction </h5> 
+</p>
+
+<p align = "center">
+<img src = "/Visualizations/svm.png" alt="svm" height = 300 width = 300/>
+<h5 align = "center"> Support Vector Machine Regression Prediction </h5> 
+</p>
+
+<p align = "center">
+<img src = "/Visualizations/dec_Tree.png" alt="dec_Tree" height = 300 width = 300/>
+<h5 align = "center"> Decision Tree Regression Prediction </h5> 
+</p>
+
+<p align = "center">
+<img src = "/Visualizations/rfr.png" alt="rfr" height = 300 width = 500/>
+<h5 align = "center"> Random Forest Regression Prediction </h5> 
+</p>
+<br>
+<br>
+
+# AI Backtesting
+ <p align = "center">
+<img src = "/Visualizations/portfolio_backtest_returns.png" alt="portfolio backtest returns" height = 300 width = 300/>
+<h5 align = "center"> Portfolio Backtest Returns </h5> 
+</p>
+
+<p align = "center">
+<img src = "/Visualizations/plot_backtest_with_sp500.png" alt="plot backtest with sp500" height = 300 width = 300/>
+<h5 align = "center"> Plot Backtest with S&P500</h5> 
+</p>
+<br>
+<br>
+
+# Result
+<p align = "center">
+<img src = "/Visualizations/final.png" alt="final" height = 300 width = 500/>
+<h5 align = "center"> The model picks stocks!</h5> 
+</p>
+
 ## Disclaimer
 No guarantee or other promise as to any results that may be obtained from using the content. You should never make any investment decision without first consulting with your financial advisor and conducting your research and due diligence.
 
