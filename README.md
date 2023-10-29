@@ -20,6 +20,14 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 * 2020 stock selection: https://www.blockchain.com/btc/tx/4234bd073d7c261b490789ddb59bf2adc3192b89cfc22ca84ed04d353cf69396
 * 2021 stock selection: https://www.blockchain.com/btc/tx/e01ce40222389e3af2a8356961f096033f2568d72202097f4aa779fb0ea60589
 
+##Goals Achieved
+1. Obtained Financial Data and Stock Performance Data of the previous years(historical data). 
+2. Used existing algorithms to see if we have any predictive power between financial data 'now' and the stock performance 'a year from now'.
+3. The financial data was used to create our features(X matrix) and the stock performance over the year after that financial data was released was the y vector.
+4. Checked the models to see if they have predictive power, for the ones that did, used those models to create value-investing AIs.
+5. Then, backtested the investing methods with the historical data to identify the best-performing algorithms.
+6. Picked the winner and tweaked it further for performance improvements.
+
 ## Disclaimer
 No guarantee or other promise as to any results that may be obtained from using the content. You should never make any investment decision without first consulting with your financial advisor and conducting your research and due diligence.
 
