@@ -1,4 +1,9 @@
 <h1 align = "center"> AI Stock Picker </h1> 
+
+<p align="center">
+  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
+</p>
+
 While traditional investment in stocks is a laborious, arduous, confusing, demanding,
 and time-consuming task, this project aimed to optimize, fasten, and smoothen the process.
 With this project, an investing Artificial Intelligence has been created which could pick
