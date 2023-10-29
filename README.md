@@ -57,7 +57,7 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 # Prediction Analysis  
 
 <p align = "center">
-<img src = "/Visualizations/lr.png" alt="lr" height = 300 width = 500/>
+<img src = "/Visualizations/lr.png" alt="lr" height = 300 width = 300/>
 <h5 align = "center"> Linear Regression Prediction </h5> 
 </p>
 
