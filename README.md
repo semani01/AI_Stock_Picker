@@ -14,7 +14,7 @@ needs to worry least about losses while celebrating assured profits with each in
 and trade. Value investing strategy has been devised which has been proven to work over
 time, notably by prominent investors like Warren Buffett and Charlie Munger.
 
-## Tools and Tech Used
+<h2 align = "left"> Tools and Tech Used </h2>
 * Python 
 * Jupyter Notebook
 * Python Libs:
@@ -34,7 +34,7 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
   * Random Forest Rgeressor
     
 
-## What did the AI do?
+<h2 align = "left"> What did the AI do? </h2>
 * Selected stocks from March 2021 to be held for one year
 * 2020 stock selection: https://www.blockchain.com/btc/tx/4234bd073d7c261b490789ddb59bf2adc3192b89cfc22ca84ed04d353cf69396
 * 2021 stock selection: https://www.blockchain.com/btc/tx/e01ce40222389e3af2a8356961f096033f2568d72202097f4aa779fb0ea60589
@@ -45,7 +45,7 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 <h5 align = "center"> Project Mindmap </h5> 
 </p>
 
-## Goals Achieved
+<h2 align = "left"> Goals Achieved </h2>
 1. Obtained Financial Data and Stock Performance Data of the previous years(historical data). 
 2. Used existing algorithms to see if we have any predictive power between financial data 'now' and the stock performance 'a year from now'.
 3. The financial data was used to create our features(X matrix) and the stock performance over the year after that financial data was released was the y vector.
@@ -53,8 +53,8 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 5. Then, backtested the investing methods with the historical data to identify the best-performing algorithms.
 6. Picked the winner and tweaked it further for performance improvements.
 
-## Few Visualizations
-# Prediction Analysis  
+<h2 align = "left">Few Visualizations </h2>
+<h3 align = "left">Prediction Analysis </h3>
 
 <p align = "center">
 <img src = "/Visualizations/lr.png" alt="lr" height = 300 width = 300/>
@@ -93,7 +93,7 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 <br>
 <br>
 
-# AI Backtesting
+<h3 align = "left">AI Backtesting </h3>
  <p align = "center">
 <img src = "/Visualizations/portfolio_backtest_returns.png" alt="portfolio backtest returns" height = 300 width = 300/>
 <h5 align = "center"> Portfolio Backtest Returns </h5> 
@@ -107,14 +107,14 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 <br>
 <br>
 
-# Result
+<h3 align = "left">Result </h3>
 <p align = "center">
 <img src = "/Visualizations/final.png" alt="final" height = 300 width = 500/>
 <h5 align = "center"> The model picks stocks!</h5> 
 </p>
 <br>
 
-## Disclaimer
+<h2 align = "left">Disclaimer </h2>
 No guarantee or other promise as to any results that may be obtained from using the content. You should never make any investment decision without first consulting with your financial advisor and conducting your research and due diligence.
 
 # License
