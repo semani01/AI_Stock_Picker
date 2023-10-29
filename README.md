@@ -14,6 +14,25 @@ needs to worry least about losses while celebrating assured profits with each in
 and trade. Value investing strategy has been devised which has been proven to work over
 time, notably by prominent investors like Warren Buffett and Charlie Munger.
 
+## Tools and Tech Used
+* Python 
+* Jupyter Notebook
+* Python Libs:
+  * Numpy
+  * Pandas
+  * Keras
+  * CV2
+  * Matplotlib
+  * Scipy
+  * Scikit-Learn 
+* ML algos:
+  * Linear Regression
+  * Elastic-Net Regression
+  * K-Nearest Neighbors
+  * Support Vector Machine Regressor
+  * Decision Tree Regressor
+  * Random Forest Rgeressor
+    
 
 ## What did the AI do?
 * Selected stocks from March 2021 to be held for one year
@@ -33,6 +52,8 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 4. Checked the models to see if they have predictive power, for the ones that did, used those models to create value-investing AIs.
 5. Then, backtested the investing methods with the historical data to identify the best-performing algorithms.
 6. Picked the winner and tweaked it further for performance improvements.
+
+
 
 ## Disclaimer
 No guarantee or other promise as to any results that may be obtained from using the content. You should never make any investment decision without first consulting with your financial advisor and conducting your research and due diligence.
