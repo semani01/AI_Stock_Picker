@@ -46,12 +46,12 @@ time, notably by prominent investors like Warren Buffett and Charlie Munger.
 </p>
 
 <h2 align = "left"> Goals Achieved </h2>
-1. Obtained Financial Data and Stock Performance Data of the previous years(historical data). 
-2. Used existing algorithms to see if we have any predictive power between financial data 'now' and the stock performance 'a year from now'.
-3. The financial data was used to create our features(X matrix) and the stock performance over the year after that financial data was released was the y vector.
-4. Checked the models to see if they have predictive power, for the ones that did, used those models to create value-investing AIs.
-5. Then, backtested the investing methods with the historical data to identify the best-performing algorithms.
-6. Picked the winner and tweaked it further for performance improvements.
+  1. Obtained Financial Data and Stock Performance Data of the previous years(historical data). <br>
+  2. Used existing algorithms to see if we have any predictive power between financial data 'now' and the stock performance 'a year from now'. <br>
+  3. The financial data was used to create our features(X matrix) and the stock performance over the year after that financial data was released was the y vector. <br>
+  4. Checked the models to see if they have predictive power, for the ones that did, used those models to create value-investing AIs. <br>
+  5. Then, backtested the investing methods with the historical data to identify the best-performing algorithms. <br>
+  6. Picked the winner and tweaked it further for performance improvements. <br>
 
 <h2 align = "left">Few Visualizations </h2>
 <h3 align = "left">Prediction Analysis </h3>
