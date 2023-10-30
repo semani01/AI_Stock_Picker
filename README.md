@@ -15,25 +15,26 @@ and trade. Value investing strategy has been devised which has been proven to wo
 time, notably by prominent investors like Warren Buffett and Charlie Munger.
 
 <h2 align = "left"> Tools and Tech Used </h2> 
-  *Python
-  *Jupyter Notebook
-  *Python Libs:
-  *Numpy
-  *Pandas
-  *Keras
-  *CV2
-  *Matplotlib
-  *Scipy
-  *Scikit-Learn 
-* ML algos:
-  *Linear Regression
-  *Elastic-Net Regression
-  *K-Nearest Neighbors
-  *Support Vector Machine Regressor
-  *Decision Tree Regressor
-  *Random Forest Rgeressor
+* Python
+* Jupyter Notebook
+* Python Libs:
+  * Numpy
+  * Pandas
+  * Keras
+  * CV2
+  * Matplotlib
+  * Scipy
+  * Scikit-learn
+* ML Algos:
+  * Linear Regression
+  * Elastic-Net Regression
+  * K-Nearest Neighbors
+  * Support Vector Machine Regressor
+  * Decision Tree Regressor
+  * Random Forest Regressor
     
-
+  
+    
 <h2 align = "left"> What did the AI do? </h2>
 * Selected stocks from March 2021 to be held for one year
 * 2020 stock selection: https://www.blockchain.com/btc/tx/4234bd073d7c261b490789ddb59bf2adc3192b89cfc22ca84ed04d353cf69396
