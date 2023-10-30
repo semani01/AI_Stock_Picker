@@ -14,10 +14,10 @@ needs to worry least about losses while celebrating assured profits with each in
 and trade. Value investing strategy has been devised which has been proven to work over
 time, notably by prominent investors like Warren Buffett and Charlie Munger.
 
-<h2 align = "left"> Tools and Tech Used </h2>
-* Python 
-* Jupyter Notebook
-* Python Libs:
+<h2 align = "left"> Tools and Tech Used </h2> 
+  * Python
+  * Jupyter Notebook
+  * Python Libs:
   * Numpy
   * Pandas
   * Keras
